@@ -11,7 +11,7 @@ Section 001: Mondays and Wednesdays 12:20PM - 1:15PM RecCenter 3230
 ## Textbook
 Composing Programs: http://composingprograms.com/ An online introduction to programming from UC-Berkeley
 
-###Other Text Resources
+### Other Text Resources
 Python Crash Course : A Hands-On, Project-Based Introduction to Programming by Eric Matthes
 Python 3 Module of the Week: A series of articles on how to use the modules of the Python 3 standard library.
 Aweosme Python : A curated list of awesome Python frameworks, libraries, software and resources.
