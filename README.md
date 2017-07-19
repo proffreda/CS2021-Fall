@@ -6,8 +6,7 @@ Prof. Fred Annexstein
 Email: fred.annexstein@uc.edu 
 
 # Meetings
-Section 001: Mondays and Wednesdays 12:20PM - 1:15PM Old Chem 537 
-Section 002: Mondays and Wednesdays 1:25PM - 2:20PM Old Chem 537
+Section 001: Mondays and Wednesdays 12:20PM - 1:15PM RecCenter 3230
 
 # Textbook
 Composing Programs: An online introduction to programming from UC-Berkeley
