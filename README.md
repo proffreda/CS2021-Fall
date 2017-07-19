@@ -22,14 +22,14 @@ In this course students will learn intermediate programming skills using the pyt
 ## Installation of Python
 Download the latest version of Python 3. This will be the official software platform for the course.
 
-Installation of Text Editor
+### Installation of Text Editor
 Python comes packaged with a basic editor which is called IDLE. We will start our development cycles using IDLE.
 You will likely transition to other popular text editors, for example we suggest you try out Sublime and Atom.
 
 ## Getting Help
-Piazza is a platform for Q and A that we will use for this class. Each student should sign up for an account. Instead of email, all student questions should be directed to Piazza, either publicly (for all students in the class to see), or privately (for only instructors to see.) Students are able and encouraged to help answer the questions of their peers.
+# Piazza is a platform for Q and A that we will use for this class. Each student should sign up for an account. Instead of email, all student questions should be directed to Piazza, either publicly (for all students in the class to see), or privately (for only instructors to see.) Students are able and encouraged to help answer the questions of their peers.
 
-Another popular online resource for programming help is Stack Overflow , which will often appear in the first page of results on Python-related google searches. Members post questions when they’re stuck, and other members try to give helpful responses. Many basic Python questions have very clear answers on Stack Overflow.
+### Stack Overflow will often appear in the first page of results on Python-related google searches. Members post questions when they’re stuck, and other members try to give helpful responses. Many basic Python questions have very clear answers on Stack Overflow.
 
 ## (Optional) Version Control
 Students are encouraged but not required to run version control. Version control software allows you to take snapshots of a project whenever it’s in a working state. When you make changes to a project—for example, when you implement a new feature—you have the option of reverting back to a previous working state if the project’s current state isn’t functioning well. Appendix D in the textbook provides a guide to the git version control system.
