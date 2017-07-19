@@ -1,10 +1,11 @@
 # CS2021
 Welcome to CS2021 - Python Programming
-Instructor
+
+# Instructor
 Prof. Fred Annexstein 
 Email: fred.annexstein@uc.edu 
 
-Meetings
+# Meetings
 Section 001: Mondays and Wednesdays 12:20PM - 1:15PM Old Chem 537 
 Section 002: Mondays and Wednesdays 1:25PM - 2:20PM Old Chem 537
 
