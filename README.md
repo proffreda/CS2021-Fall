@@ -38,9 +38,9 @@ Students are encouraged but not required to run version control. Version control
 There will be a lab due at the end of each week. There will be 4-5 homework projects during the term. There will be 2 exams and a final project. Grades will be determined by a weighted average of grades, roughly distributed evenly as follows: Labs 25%, Homeworks 25%, Exams 25%, Final Project 25%. With the exception of exams, in all other assignments group efforts for projects are encouraged.
 
 ## Spring 2017 Academic Calendar
-*Classes begin Monday, August 21 
-*Holiday: Labor Day	Monday, September 4
-*Fall Reading Days: Monday-Tuesday October 9-10 
-*Holiday: Veterans Day Friday, November 10
-*Holiday: Thanksgiving Weekend Thursday - Sunday, November 23 - November 26
-*Last Day Classes - Sunday Dec 3
+* Classes begin Monday, August 21 
+* Holiday: Labor Day	Monday, September 4
+* Fall Reading Days: Monday-Tuesday October 9-10 
+* Holiday: Veterans Day Friday, November 10
+* Holiday: Thanksgiving Weekend Thursday - Sunday, November 23 - November 26
+* Last Day Classes - Sunday Dec 3
